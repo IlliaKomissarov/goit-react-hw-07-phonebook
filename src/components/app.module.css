@@ -1,0 +1,19 @@
+.container {
+    width: 1280px;
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title {
+    font-size: 40px;
+    color: rgb(30, 30, 170);
+}
+
+.subtitle {
+    font-size: 30px;
+    color: rgb(30, 30, 170);
+}

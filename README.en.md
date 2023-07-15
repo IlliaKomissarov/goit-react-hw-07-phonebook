@@ -5,26 +5,26 @@ This project was created with
 acquainted and configure additional features
 [refer to documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## Creating a repository by template
+## Создание репозитория по шаблону
 
-Use this GoIT repository as a template for creating a repository
-of your project. To use it just tap the `«Use this template»` button and choose
-`«Create a new repository»` option, as you can see on the image below.
+Используй этот репозиторий организации GoIT как шаблон для создания репозитория
+своего проекта. Для этого нажми на кнопку `«Use this template»` и выбери опцию
+`«Create a new repository»`, как показано на изображении.
 
 ![Creating repo from a template step 1](./assets/template-step-1.png)
 
-The page for creating a new repository will open on the next step. Fill out
-the Name field and make sure the repository is public, then click
-`«Create repository from template»` button.
+На следующем шаге откроется страница создания нового репозитория. Заполни поле
+его имени, убедись что репозиторий публичный, после чего нажми кнопку
+`«Create repository from template»`.
 
 ![Creating repo from a template step 2](./assets/template-step-2.png)
 
-You now have a personal project repository, having a repository-template file 
-and folder structure. After that, you can work with it as you would with any 
-other private repository: clone it on your computer, write code, commit, and 
-send it to GitHub.
+Теперь у тебя есть личный репозиторий проекта, со структурой файлов и папок
+репозитория-шаблона. Далее работай с ним как с любым другим личным репозиторием,
+клонируй его себе на компьютер, пиши код, делай коммиты и отправляй их на
+GitHub.
 
-## Preparing for coding
+## Подготовка к работе
 
 1. Make sure you have an LTS version of Node.js installed on your computer.
    [Download and install](https://nodejs.org/en/) if needed.
